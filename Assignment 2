@@ -1,0 +1,23 @@
+1. What all things we should think of before undertaking a project?
+a) The new system will be substantially superior to its predecessor and to competitive systems.
+b) The new system corrects a basic philosophical defect in the previous system.
+c) The specification is not yet complete, but it will be finished before any important programming decisions are made
+d) The new system is not competitive to the existing system.
+Ans(a,b,c)
+
+2. Which one of the following is a functional requirement?
+a) Maintainability
+b) Portability
+c) Robustness
+d) Testability
+e) None of the above
+Ans(e)
+
+3.) What are the three phases in computing, which are often considered as one process?
+Ans) research, development, and production.
+
+4) What is one of the big problem in controlling the production of a large system?
+(Possible ans) One of the big problems of controlling the production of a large system is obtaining information which will reveal how much progress has been made or performance monitoring.
+
+5) What are some difficulties undergone by producers producing large software?
+Ans) Production planning (of product having some research content), personal factors, production control.
